@@ -7,5 +7,5 @@ date: 2025-01-27
 venue: "Journal 27"
 paperurl: "https://dl.acm.org/doi/full/10.1145/3703631"
 
-citation: 'Wang, Hao, et al. "Fedeval: Defending Against Lazybone Attack via Multi-dimension Evaluation in Federated Learning." ACM Transactions on Sensor Networks 21.1 (2025): 1-23.'
+
 ---
