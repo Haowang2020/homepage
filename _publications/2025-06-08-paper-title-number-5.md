@@ -1,13 +1,15 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "SlideLoRa: Reliable Channel Activity Monitoring across Massive Logical Channels in LoRa Networks"
+authors: "Jiamin Jiang, Shiming Yu, Hao Wang, Haiyang Li, Yuanqing Zheng, Lu Wang"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+type: conferences
+permalink: /publications/2025-slidelora-icnp
+date: 2025-09-25
+venue: "IEEE 33rd International Conference on Network Protocols (ICNP 2025), Seoul, Korea"
+doi: "10.1109/ICNP65844.2025.11192378"
+
+paperurl:
+
+"https://ieeexplore.ieee.org/document/11192378" # 若页面 ID 更新，请以实际为准
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
