@@ -2,12 +2,9 @@
 title: "Fedeval: Defending Against Lazybone Attack via Multi-dimension Evaluation in Federated Learning"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-
+permalink: /publication/2025-01-27-fedeval
 date: 2025-01-27
-venue: 'Journal 27'
-
-paperurl: ['https://academicpages.github.io/files/paper1.pdf](https://dl.acm.org/doi/full/10.1145/3703631)'
+venue: "Journal 27"
 
 citation: 'Wang, Hao, et al. "Fedeval: Defending Against Lazybone Attack via Multi-dimension Evaluation in Federated Learning." ACM Transactions on Sensor Networks 21.1 (2025): 1-23.'
 ---
